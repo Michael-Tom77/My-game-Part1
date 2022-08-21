@@ -1,0 +1,93 @@
+    .greeting {
+      font-size: 40px;
+      color: white;
+      font-family: vollkorn;
+      text-align: center;
+    }
+
+    .title {
+      font-size: 100px;
+      color: white;
+      font-family: vollkorn;
+      text-align: center;
+    }
+
+    .customInput {
+      width: 200px;
+      height: 30px;
+      border: 3px solid white;
+      border-radius: 5px;
+      padding: 5px;
+      background-color: transparent;
+      font-size: 20px;
+      outline: none;
+      color: white;
+      font-family: vollkorn;
+      text-align: center;
+    }
+
+    .greeting {
+      font-size: 40px;
+      color: white;
+      font-family: vollkorn;
+      text-align: center;
+    }
+
+    .customTitle {
+      font-size: 60px;
+      color: rgb(3, 46, 4);
+      font-family: vollkorn;
+      text-align: center;
+    }
+
+    ::placeholder {
+      /* Chrome, Firefox, Opera, Safari 10.1+ */
+      color: white;
+      opacity: 1;
+      /* Firefox */
+    }
+
+    .restartText {
+      font-size: 25px;
+      color: white;
+      font-family: vollkorn;
+      text-align: center;
+    }
+
+
+    .restartButton {
+      width: 60px;
+      height: 60px;
+      background-image: url('assets/UI/restart_Img-removebg-preview.png');
+      background-size: cover;
+      border-radius: 30px;
+      display: inline-block;
+      cursor: pointer;
+      -webkit-transition-duration: 0.4s;
+      /* Safari */
+      transition-duration: 0.4s;
+      outline: none;
+    }
+
+    .competitionText {
+      font-size: 20px;
+      color: white;
+      font-family: vollkorn;
+      text-align: center;
+    }
+
+    .customButton {
+      width: 20px;
+      height: 10px;
+      border: 3px solid white;
+      color: #FFFF;
+      font-weight: bold;
+      border-radius: 10px;
+      margin-bottom: 100px;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      transition-duration: 0.4s;
+      outline: none;
+    }
